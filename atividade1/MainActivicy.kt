@@ -44,7 +44,7 @@ class MainActivity : ComponentActivity() {
                 Spacer(modifier = Modifier.height(16.dp))
 
                 MessageCard(
-                    Message("Samuel", "Aprendendo Jetpack Compose", R.drawable.bob)
+                    Message("Leticia", "Aprendendo Jetpack Compose", R.drawable.bob)
                 )
 
                 Spacer(modifier = Modifier.height(16.dp))
